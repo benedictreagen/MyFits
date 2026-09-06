@@ -1,0 +1,10 @@
+{
+  "name": "Sasha fit",
+  "description": "A polished personal health and nutrition tracking web app with visual meal logging, AI-powered meal recommendations, advanced natural language and image food search, and Google Sheets integration.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
